@@ -1,0 +1,50 @@
+name: smartlocker
+description: A new Flutter project.
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+
+version: 1.0.13+13
+
+environment:
+  sdk: '>=2.19.2 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+
+  cupertino_icons: ^1.0.2
+  qr_flutter: ^4.1.0
+  shared_preferences: ^2.1.1
+  http: ^0.13.6
+  fluttertoast: ^8.2.1
+  flutter_inset_box_shadow: ^1.0.8
+  image_picker: ^0.8.6+3
+  simple_barcode_scanner: ^0.0.8
+  flutter_tawk: ^0.1.0
+  firebase_auth:
+  firebase_core: ^2.7.1
+  url_launcher: ^6.1.10
+  geolocator:
+  geocoding:
+  google_maps_flutter:
+  sms_otp_auto_verify:
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+  flutter_lints: ^2.0.0
+
+
+flutter:
+
+
+  uses-material-design: true
+
+  # To add assets to your application, add an assets section, like this:
+  assets:
+    - assets/
+    - assets/images/

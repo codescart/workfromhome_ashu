@@ -1,0 +1,43 @@
+name: smartlockerknox
+description: A new Flutter project.
+
+publish_to: 'none'
+
+version: 1.0.6+6
+
+environment:
+  sdk: '>=2.19.6 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+
+  cupertino_icons: ^1.0.5
+  flutter_overlay_window: ^0.4.1
+  shared_preferences: ^2.1.0
+  firebase_messaging: ^14.4.1
+  firebase_core: ^2.10.0
+  http:
+  fluttertoast: ^8.2.1
+  flutter_local_notifications: ^9.2.0
+  url_launcher:
+  flutter_background_service: ^2.4.6
+  flutter_barcode_scanner:
+  geolocator:
+  contacts_service:
+  permission_handler:
+  flutter_phone_direct_caller: ^2.1.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^2.0.1
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+     - assets/

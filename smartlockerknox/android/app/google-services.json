@@ -1,0 +1,108 @@
+{
+  "project_info": {
+    "project_number": "982111630622",
+    "project_id": "smartlocker-22532",
+    "storage_bucket": "smartlocker-22532.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:982111630622:android:67e56266ea492c1145850f",
+        "android_client_info": {
+          "package_name": "com.foundercodes.smartlocker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "982111630622-8v64q66dljuge8tt50gt8ocmj4asmt5o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.foundercodes.smartlocker",
+            "certificate_hash": "026935f4d195b753fc18a4f858aedad9eb6447db"
+          }
+        },
+        {
+          "client_id": "982111630622-itb6b927ji9r3r08q6snaqpgenkrsvaa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.foundercodes.smartlocker",
+            "certificate_hash": "e2414c9fd476fcc20035fd0492ee1c630902adbc"
+          }
+        },
+        {
+          "client_id": "982111630622-k7ejdldcfr2nq5eeojij0hc1a4ev1p4j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.foundercodes.smartlocker",
+            "certificate_hash": "f4fc4752ad1ab0ed66b7378860863d634653a9a0"
+          }
+        },
+        {
+          "client_id": "982111630622-n40ra8es1jo3gumngmnronnd76iong06.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.foundercodes.smartlocker",
+            "certificate_hash": "167d205ca98acbcba5b1b0198ed25b9daa4a1ad3"
+          }
+        },
+        {
+          "client_id": "982111630622-1jbthhcj67hl3eapjvq1rg2snu5fcafb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQLRN09HRwwcamYG3feHTQAlAUQYB8ZiA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "982111630622-1jbthhcj67hl3eapjvq1rg2snu5fcafb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:982111630622:android:12441fee650e497745850f",
+        "android_client_info": {
+          "package_name": "com.foundercodes.smartlockerknox"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "982111630622-s0lrueqnnftp60ued8ofjt5nth8tqqha.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.foundercodes.smartlockerknox",
+            "certificate_hash": "e2414c9fd476fcc20035fd0492ee1c630902adbc"
+          }
+        },
+        {
+          "client_id": "982111630622-1jbthhcj67hl3eapjvq1rg2snu5fcafb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQLRN09HRwwcamYG3feHTQAlAUQYB8ZiA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "982111630622-1jbthhcj67hl3eapjvq1rg2snu5fcafb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
